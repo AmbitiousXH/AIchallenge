@@ -1,2 +1,0 @@
-# AIchallenge
-Microsoft-AI-challenge
